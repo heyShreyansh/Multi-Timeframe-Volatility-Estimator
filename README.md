@@ -2,6 +2,7 @@
 
 A quantitative finance analytics tool that estimates, visualizes, and interprets stock price volatility across multiple time horizons.  
 Built using Python, Streamlit, Plotly, and Yahoo Finance data, this project bridges financial theory, statistical modeling, and product-grade dashboards.
+<img width="1680" height="926" alt="Screenshot 2026-01-17 at 1 59 37 PM" src="https://github.com/user-attachments/assets/878664ac-a754-4f18-8fb7-7bd9cf9ee6ae" />
 
 ---
 
@@ -116,7 +117,8 @@ volatility-estimator/
 - Risk managers → regime monitoring  
 - Portfolio managers → cross-asset risk comparison  
 - Researchers → volatility dynamics & event studies  
-<img width="1680" height="926" alt="Screenshot 2026-01-17 at 1 59 37 PM" src="https://github.com/user-attachments/assets/878664ac-a754-4f18-8fb7-7bd9cf9ee6ae" />
+
+---
 
 <img width="1680" height="928" alt="Screenshot 2026-01-17 at 1 54 58 PM" src="https://github.com/user-attachments/assets/e6c380e9-afdd-4b10-ba2d-6b5bedbcb8c6" />
 
